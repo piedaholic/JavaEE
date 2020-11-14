@@ -5,4 +5,4 @@
  * @author hpsingh
  *
  */
-package com.jms.queue;
+package com.piedaholic.jms.queue;
